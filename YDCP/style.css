@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: white;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+h2 {
+    font-size: 30px;
+    color: #B4000F;
+}
+
+h1 {
+    font-size: 24px;
+    color: gold;
+}
+
+p {
+    font-size: 20px;
+    top: 40%; 
+}
+
+.poop {height:400px;
+    width:400px;
+}
+john {
+    opacity: 0.5;
+  }
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  .overlay-button {
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: #000000; 
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;}
+
+
+
+
+  .overlay-text {
+    position: absolute;
+    top: 40%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: #000000; 
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;}
+
+    .overlay-text-top {
+      position: absolute;
+      top: 20%; 
+      left: 50%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding: 10px 20px; 
+      font-size: 20px; 
+      text-align: center;}
+
+      .overlay-text-bottom1 {
+        position: absolute;
+        top: 75%; 
+        left: 50%; 
+        transform: translate(-50%, -50%); 
+        background-color: #000000; 
+        color: #fff; 
+        padding: 10px 20px; 
+        font-size: 20px; 
+        text-align: center;}
+
+
+        
+      .overlay-text-bottom2 {
+        position: absolute;
+        top: 85%; 
+        left: 50%; 
+        transform: translate(-50%, -50%); 
+        background-color: #000000; 
+        color: #fff; 
+        padding: 10px 20px; 
+        font-size: 20px; 
+        text-align: center;}
+
+
+
+        .overlay-text-bottom3 {
+          position: absolute;
+          top: 100%; 
+          left: 50%; 
+          transform: translate(-50%, -50%); 
+          background-color: #000000; 
+          color: #fff; 
+          padding: 10px 20px; 
+          font-size: 20px; 
+          text-align: center;}
+  
+  
+  
+
+
+
+  .overlay-image {
+      position: absolute;
+      top: 80%; 
+      left: 80%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding: 5px 5px; 
+      font-size: 20px; 
+      text-align: center;}
+
+    .overlay-image_L {
+      position: absolute;
+      top: 80%; 
+      left: 20%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding:5px 5px; 
+      font-size: 20px; 
+      text-align: center;}
+
+    .overlay-imageS {
+      position: absolute;
+      top: 53%; 
+      left: 30%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding:5px 5px; 
+      font-size: 20px; 
+      text-align: center;}
+
+    .overlay-imageP {
+      position: absolute;
+      top: 53%; 
+      left: 50%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding:5px 5px; 
+      font-size: 20px; 
+      text-align: center;}
+
+    .overlay-imageR {
+      position: absolute;
+      top: 53%; 
+      left: 70%; 
+      transform: translate(-50%, -50%); 
+      background-color: #000000; 
+      color: #fff; 
+      padding:5px 5px; 
+      font-size: 20px; 
+      text-align: center;}
+        
+  .button {
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
